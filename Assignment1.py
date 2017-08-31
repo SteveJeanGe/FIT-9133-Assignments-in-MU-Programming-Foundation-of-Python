@@ -4,9 +4,6 @@
 #                                                                                                    #
 ######################################################################################################
 
-# STUDENT ID: 28316584
-# NAME: JING GE
-
 
 # This program is the answer of the Assignment 1 for Monash University Unit FIT9133 Programming Foundations
 # in Python. After entering the necessary information, the program will firstly show the formatted passport
